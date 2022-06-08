@@ -1,0 +1,9 @@
+// action type
+export const GET_SMARTPHONES = "GET_SMARTPHONES";
+export const DELETE_SMARTPHONE = "DELETE_SMARTPHONE";
+export const ADD_SMARTPHONE = "ADD_SMARTPHONE";
+export const GET_SINGLE_SMARTPHONE = "GET_SINGLE_SMARTPHONE";
+export const UPDATE_SMARTPHONE = "UPDATE_SMARTPHONE"; 
+export const GET_TELS = "GET_TELS";
+export const GET_RESAUS = "GET_RESAUS";
+export const GET_COULEURS = "GET_COULEURS"; 
